@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-chuck/static/css/main.610566d0.css",
+    "main.js": "/react-chuck/static/js/main.0c418aed.js",
+    "static/js/787.bc0828b1.chunk.js": "/react-chuck/static/js/787.bc0828b1.chunk.js",
+    "static/media/chuck.png": "/react-chuck/static/media/chuck.0171796635bfac183d73.png",
+    "index.html": "/react-chuck/index.html",
+    "main.610566d0.css.map": "/react-chuck/static/css/main.610566d0.css.map",
+    "main.0c418aed.js.map": "/react-chuck/static/js/main.0c418aed.js.map",
+    "787.bc0828b1.chunk.js.map": "/react-chuck/static/js/787.bc0828b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.610566d0.css",
+    "static/js/main.0c418aed.js"
+  ]
+}
