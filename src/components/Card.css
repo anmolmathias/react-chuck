@@ -14,7 +14,7 @@ p {
 }
 
 img {
-	width: 500px;
+	width: 360px;
 	height: auto;
 	align-self: center;
 }
@@ -33,4 +33,10 @@ button {
     padding: 10px;
     border-radius: 5px;
     align-self: flex-end;
+}
+
+@media screen and (max-width: 481px) {
+    img {
+        width: 260px;
+    }
 }
