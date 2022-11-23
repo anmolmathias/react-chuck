@@ -1,4 +1,4 @@
-# Chuck Norris Quip Generator
+# [Chuck Norris Quip Generator](https://anmolmathias.github.io/react-chuck/)
 Quip generator for Chuck Norris facts utilizing the chucknorris.io [JSON API](https://api.chucknorris.io/), built with React and Tachyons. Check out the webapp [here.](https://anmolmathias.github.io/react-chuck/)
 
 ### About
